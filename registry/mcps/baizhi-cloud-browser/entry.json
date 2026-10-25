@@ -4,7 +4,7 @@
   "type": "mcp",
   "name": "Baizhi Cloud Browser",
   "tagline": "On-demand cloud browser sessions for coding agents.",
-  "description": "Baizhi Cloud Browser provides on-demand cloud browser sessions for coding agents. This MCP connection manages sessions and CDP access; a compatible CDP client performs page actions. Sessions may incur charges: check current prices, explicitly stop sessions you create, and check resource release and billing afterward. Disconnecting a client does not end the remote session.",
+  "description": "Baizhi Cloud Browser (CapyBrowser) provides on-demand cloud browser sessions for coding agents. This MCP connection manages sessions and CDP access; a compatible CDP client performs page actions. Sessions may incur charges: check current prices, explicitly stop sessions you create, and check resource release and billing afterward. Disconnecting a client does not end the remote session.",
   "author": {
     "name": "ctcbyzx",
     "url": "https://github.com/ctcbyzx"
